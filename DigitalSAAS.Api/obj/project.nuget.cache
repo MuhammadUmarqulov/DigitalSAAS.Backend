@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H0L5tAU+UqlPmUbjX5X1IHk4JFbOK+VtKydX4zGPEfWmW2m3QE8V4JjHyk1RIOBscTyjiwZ2mPYbYehlY396OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jamshid\\Desktop\\ASP.NET\\DigitalSAAS\\DigitalSAAS.Api\\DigitalSAAS.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamshid\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jamshid\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jamshid\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jamshid\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jamshid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jamshid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
